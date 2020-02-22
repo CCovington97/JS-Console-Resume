@@ -42,6 +42,7 @@ var gbhoa = [
 for(var k = 0; k < gbhoa.length; k++) {
     console.log(gbhoa[k]);
 }
+
 console.log(' ');
 console.log('Skills:');
 
